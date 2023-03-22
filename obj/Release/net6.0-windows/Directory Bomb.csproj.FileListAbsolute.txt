@@ -1,0 +1,20 @@
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Release\net6.0-windows\Directory Bomb.exe
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Release\net6.0-windows\Directory Bomb.deps.json
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Release\net6.0-windows\Directory Bomb.runtimeconfig.json
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Release\net6.0-windows\Directory Bomb.dll
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Release\net6.0-windows\Directory Bomb.pdb
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Release\net6.0-windows\agq\Directory Bomb.resources.dll
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory Bomb.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory_Bomb.Forms.BombForm.resources
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory_Bomb.Forms.BombForm.agq.resources
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory Bomb.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory Bomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory Bomb.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory Bomb.AssemblyInfo.cs
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory Bomb.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\agq\Directory Bomb.resources.dll
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory Bomb.dll
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\refint\Directory Bomb.dll
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory Bomb.pdb
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\Directory Bomb.genruntimeconfig.cache
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\obj\Release\net6.0-windows\ref\Directory Bomb.dll

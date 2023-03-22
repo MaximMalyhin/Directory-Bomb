@@ -1,0 +1,6 @@
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Debug\net6.0-windows\publish\Directory Bomb.exe
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Debug\net6.0-windows\publish\Directory Bomb.dll
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Debug\net6.0-windows\publish\Directory Bomb.deps.json
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Debug\net6.0-windows\publish\Directory Bomb.runtimeconfig.json
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Debug\net6.0-windows\publish\Directory Bomb.pdb
+C:\Users\maksi\source\repos\Directory Bomb\Directory Bomb\bin\Debug\net6.0-windows\publish\agq\Directory Bomb.resources.dll
